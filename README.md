@@ -11,6 +11,11 @@ A reading list related to our current project in SenseTime
 ### 4. VO/SLAM
 * Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry, CVPR 2019 (oral)
   * [paper](https://arxiv.org/abs/1904.01892), [code]()
+  * tracking + remembering + refining, RNN, supervised
+
+* BA-Net: Dense Bundle Adjustment Networks, ICLR 2019 (oral)
+  * [paper](https://openreview.net/pdf?id=B1gabhRcYX), [code](https://github.com/frobelbest/BANet)
+  * learning the feature pyramid + the LM damping factor + the basis depth maps, supervised
   
 ### 5. Others
 * Taking a Deeper Look at the Inverse Compositional Algorithm, CVPR 2019 (oral)
