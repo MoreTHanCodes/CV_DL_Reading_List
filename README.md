@@ -21,6 +21,7 @@ A reading list related to our current project in SenseTime
 ### 5. Others
 * Taking a Deeper Look at the Inverse Compositional Algorithm, *CVPR 2019*
   * [paper](http://www.cvlibs.net/publications/Lv2019CVPR.pdf), [code](https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm)
+  * two-view feature encoder + convolutional M-estimator + trust region network, supervised
 
 * Understanding the Limitations of CNN-based Absolute Camera Pose Regression, *CVPR 2019*
   * [paper](https://arxiv.org/abs/1903.07504), [datasets](https://github.com/tsattler/understanding_apr)
