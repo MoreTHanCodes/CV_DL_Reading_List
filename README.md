@@ -17,12 +17,12 @@ A reading list related to our current project in SenseTime
 * BA-Net: Dense Bundle Adjustment Networks, *ICLR 2019*
   * [paper](https://openreview.net/pdf?id=B1gabhRcYX), [code](https://github.com/frobelbest/BANet)
   * learning the feature pyramid + the LM damping factor + the basis depth maps, supervised
-  
-### 5. Others
+
 * Taking a Deeper Look at the Inverse Compositional Algorithm, *CVPR 2019*
   * [paper](http://www.cvlibs.net/publications/Lv2019CVPR.pdf), [code](https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm)
   * two-view feature encoder + convolutional M-estimator + trust region network, supervised
-
+  
+### 5. Others
 * Understanding the Limitations of CNN-based Absolute Camera Pose Regression, *CVPR 2019*
   * [paper](https://arxiv.org/abs/1903.07504), [datasets](https://github.com/tsattler/understanding_apr)
 
