@@ -9,7 +9,7 @@ A reading list related to our current project in SenseTime
 
 ### 3. Stereo System
 
-### 4. VO/SLAM
+### 4. Visual SLAM/Odometry
 * Beyond Tracking: Selecting Memory and Refining Poses for Deep Visual Odometry, *CVPR 2019*
   * [paper](https://arxiv.org/abs/1904.01892), [code]()
   * tracking + remembering + refining, RNN, supervised
@@ -21,6 +21,9 @@ A reading list related to our current project in SenseTime
 * Taking a Deeper Look at the Inverse Compositional Algorithm, *CVPR 2019*
   * [paper](http://www.cvlibs.net/publications/Lv2019CVPR.pdf), [code](https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm)
   * two-view feature encoder + convolutional M-estimator + trust region network, supervised
+  
+* Visual SLAM: Why Bundle Adjust?, *ICRA 2019*
+  * [paper](https://arxiv.org/abs/1902.03747), [code]()
   
 ### 5. Others
 * Understanding the Limitations of CNN-based Absolute Camera Pose Regression, *CVPR 2019*
