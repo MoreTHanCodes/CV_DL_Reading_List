@@ -25,7 +25,9 @@ A reading list related to our current project in SenseTime
 * Visual SLAM: Why Bundle Adjust?, *ICRA 2019*
   * [paper](https://arxiv.org/abs/1902.03747), [code]()
   
-### 5. Others
+### 5. Visual-Inertial Odometry
+  
+### 6. Others
 * Understanding the Limitations of CNN-based Absolute Camera Pose Regression, *CVPR 2019*
   * [paper](https://arxiv.org/abs/1903.07504), [datasets](https://github.com/tsattler/understanding_apr)
 * Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving, *CVPR 2019*
