@@ -5,6 +5,10 @@ A reading list related to our current project in SenseTime
 * Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera, *CVPR 2019*
   * [paper](https://arxiv.org/abs/1901.02571), [code](https://github.com/NVlabs/neuralrgbd)
   * depth probability distribution + bayesian filters + adaptive damping + kalman filter , supervised
+
+* Learning Depth from Monocular Videos using Direct Methods, *CVPR 2018*
+  * [paper](https://www.ci2cv.net/media/papers/Wang_Learning_Depth_From_CVPR_2018_paper.pdf), [code](https://github.com/MightyChaos/LKVOLearner)
+  
 ### 2. Learning Correspondence
 
 ### 3. Stereo System
