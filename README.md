@@ -12,7 +12,7 @@ A reading list related to our current project in SenseTime
 * Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image, *ICRA 2018*
   * [paper](https://arxiv.org/pdf/1709.07492.pdf), [code](https://github.com/fangchangma/sparse-to-dense)
 
-* Sparse Geometry from a Line: Monocular Depth Estimation with Partial Laser Observation, *ICRA 2018*
+* Sparse Geometry from a Line: Monocular Depth Estimation with Partial Laser Observation, *ICRA 2017*
   * [paper](https://ieeexplore.ieee.org/document/7989590), [code]()
   
 ### 2. Learning Correspondence
