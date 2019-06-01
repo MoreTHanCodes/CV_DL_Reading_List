@@ -8,6 +8,12 @@ A reading list related to our current project in SenseTime
 
 * Learning Depth from Monocular Videos using Direct Methods, *CVPR 2018*
   * [paper](https://www.ci2cv.net/media/papers/Wang_Learning_Depth_From_CVPR_2018_paper.pdf), [code](https://github.com/MightyChaos/LKVOLearner)
+
+* Sparse-to-Dense: Depth Prediction from Sparse Depth Samples and a Single Image, *ICRA 2018*
+  * [paper](https://arxiv.org/pdf/1709.07492.pdf), [code](https://github.com/fangchangma/sparse-to-dense)
+
+* Sparse Geometry from a Line: Monocular Depth Estimation with Partial Laser Observation, *ICRA 2018*
+  * [paper](https://ieeexplore.ieee.org/document/7989590), [code]()
   
 ### 2. Learning Correspondence
 
@@ -34,6 +40,7 @@ A reading list related to our current project in SenseTime
 ### 6. Others
 * Understanding the Limitations of CNN-based Absolute Camera Pose Regression, *CVPR 2019*
   * [paper](https://arxiv.org/abs/1903.07504), [datasets](https://github.com/tsattler/understanding_apr)
+
 * Pseudo-LiDAR from Visual Depth Estimation: Bridging the Gap in 3D Object Detection for Autonomous Driving, *CVPR 2019*
   * [paper](https://arxiv.org/abs/1812.07179), [code](https://github.com/mileyan/pseudo_lidar)
   * pseudo-LiDAR representations + mimick LiDAR signal
