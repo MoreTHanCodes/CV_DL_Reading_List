@@ -57,13 +57,13 @@ A reading list related to our current project in SenseTime
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Neural_RGBrD_Sensing_Depth_and_Uncertainty_From_a_Video_Camera_CVPR_2019_paper.pdf), [code](https://github.com/NVlabs/neuralrgbd)
   * depth probability distribution + bayesian filters + adaptive damping + kalman filter, DPV fusion, supervised, motion and depth
   
-* Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras, *arXiv 2019*
-  * [paper](https://arxiv.org/abs/1904.04998)
-  * unsupervised, motion and depth and camera intrinsics and occlusion
-
 * Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation, *CVPR 2019*
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ranjan_Competitive_Collaboration_Joint_Unsupervised_Learning_of_Depth_Camera_Motion_Optical_CVPR_2019_paper.pdf), [code](https://github.com/anuragranj/cc)
   * TODO
+
+* Depth from Videos in the Wild: Unsupervised Monocular Depth Learning from Unknown Cameras, *arXiv 2019*
+  * [paper](https://arxiv.org/abs/1904.04998)
+  * unsupervised, motion and depth and camera intrinsics and occlusion
 
 * Learning Depth from Monocular Videos using Direct Methods, *CVPR 2018*
   * [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Learning_Depth_From_CVPR_2018_paper.pdf), [code](https://github.com/MightyChaos/LKVOLearner)
