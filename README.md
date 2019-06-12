@@ -61,6 +61,10 @@ A reading list related to our current project in SenseTime
   * [paper](https://arxiv.org/abs/1904.04998)
   * unsupervised, motion and depth and camera intrinsics and occlusion
 
+* Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation, *CVPR 2019*
+  * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ranjan_Competitive_Collaboration_Joint_Unsupervised_Learning_of_Depth_Camera_Motion_Optical_CVPR_2019_paper.pdf), [code](https://github.com/anuragranj/cc)
+  * TODO
+
 * Learning Depth from Monocular Videos using Direct Methods, *CVPR 2018*
   * [paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Wang_Learning_Depth_From_CVPR_2018_paper.pdf), [code](https://github.com/MightyChaos/LKVOLearner)
   * differentiable DVO, unsupervised, motion and depth
