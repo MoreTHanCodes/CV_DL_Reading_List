@@ -2,7 +2,7 @@
 A reading list related to our current project in SenseTime
 
 
-## Learned Iterative GN/LM Solver for LK/BA
+## Learning Iterative GN/LM Solver for LK/BA
 * Taking a Deeper Look at the Inverse Compositional Algorithm, *CVPR 2019*
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lv_Taking_a_Deeper_Look_at_the_Inverse_Compositional_Algorithm_CVPR_2019_paper.pdf), [code](https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm)
   * two-view feature encoder + convolutional M-estimator + trust region network, supervised, motion only
@@ -20,7 +20,7 @@ A reading list related to our current project in SenseTime
   * compact code for optimization, supervised, motion and depth
 
 
-## Learned Iterative RNN/CNN for LK/BA
+## Learning Iterative RNN/CNN for LK/BA
 * Learning to Solve Nonlinear Least Squares for Monocular Stereo, *ECCV 2018*
   * [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ronald_Clark_Neural_Nonlinear_least_ECCV_2018_paper.pdf)
   * LSTM-RNN for GN solver updates prediction (consider jacobian and residual terms), supervised, motion and depth
