@@ -2,11 +2,14 @@
 A reading list related to our current project in SenseTime
 
 * Section Links:
-  * [Learning Iterative Optimization Solver for SLAM](##learning-iterative-optimization-solver-for-slam)
-  * [Learning Iterative Network for SLAM](##learning-iterative-network-for-slam)
-  * [RNN for Motion Estimation](##rnn-for-motion-estimation)
-  * [CNN for Depth Estimation](##cnn-for-depth-estimation)
+  * [Learning Iterative Optimization Solver for SLAM](#learning-iterative-optimization-solver-for-slam)
+  * [Learning Iterative Network for SLAM](#learning-iterative-network-for-slam)
+  * [RNN for Motion Estimation](#rnn-for-motion-estimation)
+  * [CNN for Depth Estimation](#cnn-for-depth-estimation)
   * [Depth Estimation from Partial Observation](#depth-estimation-from-partial-observation)
+  * [Visual SLAM without Learning](#visual-slam-without-learning)
+  * [Adaptive Frame Selection from Video](#adaptive-frame-selection-from-video)
+  * [Other Interesting Papers](#other-interesting-papers)
 
 
 ## Learning Iterative Optimization Solver for SLAM
@@ -118,7 +121,7 @@ A reading list related to our current project in SenseTime
   * [paper](https://ieeexplore.ieee.org/document/7989590)
 
 
-## Visual SLAM/Odometry without Learning
+## Visual SLAM without Learning
 * BAD SLAM: Bundle Adjusted Direct RGB-D SLAM, *CVPR 2019*
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Schops_BAD_SLAM_Bundle_Adjusted_Direct_RGB-D_SLAM_CVPR_2019_paper.pdf)
   * TODO
