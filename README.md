@@ -6,7 +6,7 @@ A reading list related to our current project in SenseTime
   * [Learning Iterative Network for SLAM](##learning-iterative-network-for-slam)
   * [RNN for Motion Estimation](##rnn-for-motion-estimation)
   * [CNN for Depth Estimation](##cnn-for-depth-estimation)
-  * [Depth Estimation from Partial Observation](##depth-estimation-from-partial-observation)
+  * [Depth Estimation from Partial Observation](#depth-estimation-from-partial-observation)
 
 
 ## Learning Iterative Optimization Solver for SLAM
