@@ -1,8 +1,15 @@
 # CV_DL_Reading_List
 A reading list related to our current project in SenseTime
 
+* Section Links:
+  * [Learning Iterative Optimization Solver for SLAM](##learning-iterative-optimization-solver-for-slam)
+  * [Learning Iterative Network for SLAM](##learning-iterative-network-for-slam)
+  * [RNN for Motion Estimation](##rnn-for-motion-estimation)
+  * [CNN for Depth Estimation](##cnn-for-depth-estimation)
+  * [Depth Estimation from Partial Observation](##depth-estimation-from-partial-observation)
 
-## Learning Iterative GN/LM Solver for LK/BA
+
+## Learning Iterative Optimization Solver for SLAM
 * Taking a Deeper Look at the Inverse Compositional Algorithm, *CVPR 2019*
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lv_Taking_a_Deeper_Look_at_the_Inverse_Compositional_Algorithm_CVPR_2019_paper.pdf), [code](https://github.com/lvzhaoyang/DeeperInverseCompositionalAlgorithm)
   * two-view feature encoder + convolutional M-estimator + trust region network, supervised, motion only
@@ -20,7 +27,7 @@ A reading list related to our current project in SenseTime
   * compact code for optimization, supervised, motion and depth
 
 
-## Learning Iterative RNN/CNN for LK/BA
+## Learning Iterative Network for SLAM
 * Learning to Solve Nonlinear Least Squares for Monocular Stereo, *ECCV 2018*
   * [paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Ronald_Clark_Neural_Nonlinear_least_ECCV_2018_paper.pdf)
   * LSTM-RNN for GN solver updates prediction (consider jacobian and residual terms), supervised, motion and depth
