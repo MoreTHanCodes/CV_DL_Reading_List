@@ -6,6 +6,7 @@ A reading list related to our current project in SenseTime
   * [Learning Iterative Network for SLAM](#learning-iterative-network-for-slam)
   * [RNN for Motion Estimation](#rnn-for-motion-estimation)
   * [CNN for Depth Estimation](#cnn-for-depth-estimation)
+  * [Learning based Visual-Inertial Odometry](#learning-based-visual-inertial-odometry)
   * [Depth Estimation from Partial Observation](#depth-estimation-from-partial-observation)
   * [Visual SLAM without Learning](#visual-slam-without-learning)
   * [Adaptive Frame Selection from Video](#adaptive-frame-selection-from-video)
@@ -41,7 +42,7 @@ A reading list related to our current project in SenseTime
   
 * DeMon: Depth and Motion Network for Learning Monocular Stereo, *CVPR 2017*
   * [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ummenhofer_DeMoN_Depth_and_CVPR_2017_paper.pdf)
-  * bootstrap net + iterative net (CNN, DO NOT consider jacobian and residual terms), supervised, motion and depth and flow
+  * bootstrap net + iterative net (CNN, DOES NOT consider jacobian and residual terms), supervised, motion and depth and flow
 
 
 ## RNN for Motion Estimation
@@ -49,17 +50,9 @@ A reading list related to our current project in SenseTime
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Xue_Beyond_Tracking_Selecting_Memory_and_Refining_Poses_for_Deep_Visual_CVPR_2019_paper.pdf)
   * tracking + remembering + refining, memory augmented LSTM-RNN, supervised, motion only
   
-* Selective Sensor Fusion for Neural Visual-Inertial Odometry, *CVPR 2019*
-  * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Selective_Sensor_Fusion_for_Neural_Visual-Inertial_Odometry_CVPR_2019_paper.pdf)
-  * visual-inertial fusion, LSTM-RNN, supervised, motion only
-  
 * End-to-end, sequence-to-sequence probabilistic visual odometry through deep neural networks, *IJRR 2017*
   * [paper](https://journals.sagepub.com/doi/abs/10.1177/0278364917734298)
   * LSTM-RNN, supervised, motion only
-  
-* VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem, *AAAI 2017*
-  * [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272)
-  * TODO
 
 
 ## CNN for Depth Estimation
@@ -106,6 +99,20 @@ A reading list related to our current project in SenseTime
 * Unsupervised Monocular Depth Estimation With Left-Right Consistency, *CVPR 2017*
   * [paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Unsupervised_Learning_of_CVPR_2017_paper.pdf), [code](https://github.com/mrharicot/monodepth)
   * unsupervised, stereo training, appearance matching & left-right disparity consistency loss, depth only
+
+
+## Learning based Visual-Inertial Odometry
+* Selective Sensor Fusion for Neural Visual-Inertial Odometry, *CVPR 2019*
+  * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Selective_Sensor_Fusion_for_Neural_Visual-Inertial_Odometry_CVPR_2019_paper.pdf)
+  * visual-inertial fusion, LSTM-RNN, supervised, motion only
+
+* Unsupervised Deep Visual-Inertial Odometry with Online Error Correction for RGB-D Imagery, *TPAMI 2019*
+  * [paper](https://ieeexplore.ieee.org/document/8691513/)
+  * iterative CNN, consider camera-imu synchronization errors, unsupervised
+  
+* VINet: Visual-Inertial Odometry as a Sequence-to-Sequence Learning Problem, *AAAI 2017*
+  * [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI17/paper/view/14462/14272)
+  * IMU-LSTM + Core-LSTM, consider camera-IMU calibration & synchronization Errors, supervised
 
 
 ## Depth Estimation from Partial Observation
