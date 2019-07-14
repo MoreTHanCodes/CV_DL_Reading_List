@@ -149,9 +149,13 @@ A reading list related to our current project in SenseTime
 
 
 ## Adaptive Frame Selection from Video
+* BubbleNets: Learning to Select the Guidance Frame in Video Object Segmentation by Deep Sorting Frames
+  * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Griffin_BubbleNets_Learning_to_Select_the_Guidance_Frame_in_Video_Object_CVPR_2019_paper.pdf)
+  * relative performance prediction + bubble sorting, video object segmentation using best annotation frame
+
 * AdaFrame: Adaptive Frame Selection for Fast Video Recognition, *CVPR 2019*
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wu_AdaFrame_Adaptive_Frame_Selection_for_Fast_Video_Recognition_CVPR_2019_paper.pdf)
-  * TODO
+  * memory-augmented LSTM (selection, reward prediction, utility), video recognition using less frames
 
 * Efficient Video Classification Using Fewer Frames, *CVPR 2019*
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Bhardwaj_Efficient_Video_Classification_Using_Fewer_Frames_CVPR_2019_paper.pdf)
