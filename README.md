@@ -10,6 +10,7 @@ A reading list related to our current project in SenseTime
   * [Depth Estimation from Partial Observation](#depth-estimation-from-partial-observation)
   * [Visual SLAM without Learning](#visual-slam-without-learning)
   * [Adaptive Frame Selection from Video](#adaptive-frame-selection-from-video)
+  * [Robotic Manipulation and Perception](#robotic-manipulation-and-perception)
   * [Other Interesting Papers](#other-interesting-papers)
 
 
@@ -167,6 +168,35 @@ A reading list related to our current project in SenseTime
 
 * Watching a Small Portion could be as Good as Watching All: Towards Efficient Video Classification, *IJCAI 2018*
   * [paper](https://www.ijcai.org/proceedings/2018/0098.pdf), [code](https://github.com/hehefan/video-classification)
+  * TODO
+
+## Robotic Manipulation and Perception
+* 6-DOF GraspNet: Variational Grasp Generation for Object Manipulation, *ICCV 2019*
+  * [paper](https://arxiv.org/abs/1905.10520)
+  * TODO
+
+* U4D: Unsupervised 4D Dynamic Scene Understanding, *ICCV 2019*
+  * [paper](https://arxiv.org/abs/1907.09905)
+  * TODO
+
+* Deep Hough Voting for 3D Object Detection in Point Clouds, *ICCV 2019*
+  * [paper](https://arxiv.org/abs/1904.09664)
+  * TODO
+
+* Sim-To-Real via Sim-To-Sim: Data-Efficient Robotic Grasping via Randomized-To-Canonical Adaptation Networks, *CVPR 2019*
+  * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/James_Sim-To-Real_via_Sim-To-Sim_Data-Efficient_Robotic_Grasping_via_Randomized-To-Canonical_Adaptation_Networks_CVPR_2019_paper.pdf)
+  * TODO
+
+* CRAVES: Controlling Robotic Arm With a Vision-Based Economic System, *CVPR 2019*
+  * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Zuo_CRAVES_Controlling_Robotic_Arm_With_a_Vision-Based_Economic_System_CVPR_2019_paper.pdf)
+  * TODO
+
+* FlowNet3D: Learning Scene Flow in 3D Point Clouds, *CVPR 2019*
+  * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_FlowNet3D_Learning_Scene_Flow_in_3D_Point_Clouds_CVPR_2019_paper.pdf)
+  * TODO
+
+* A Robust Local Spectral Descriptor for Matching Non-Rigid Shapes With Incompatible Shape Structures, *CVPR 2019*
+  * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_A_Robust_Local_Spectral_Descriptor_for_Matching_Non-Rigid_Shapes_With_CVPR_2019_paper.pdf)
   * TODO
   
 ## Other Interesting Papers
