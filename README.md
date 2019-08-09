@@ -56,6 +56,10 @@ A reading list related to our current project in SenseTime
 
 
 ## CNN for Depth Estimation
+* Digging Into Self-Supervised Monocular Depth Estimation, *ICCV 2019*
+  * [paper](https://arxiv.org/abs/1806.01260), [code](https://github.com/nianticlabs/monodepth2)
+  * TODO
+
 * Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera, *CVPR 2019*
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Neural_RGBrD_Sensing_Depth_and_Uncertainty_From_a_Video_Camera_CVPR_2019_paper.pdf), [code](https://github.com/NVlabs/neuralrgbd)
   * depth probability distribution + bayesian filters + adaptive damping + kalman filter, DPV fusion, supervised, motion and depth
@@ -166,6 +170,10 @@ A reading list related to our current project in SenseTime
   * TODO
   
 ## Other Interesting Papers
+* DeepMapping: Unsupervised Map Estimation From Multiple Point Clouds, *CVPR 2019*
+  * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Ding_DeepMapping_Unsupervised_Map_Estimation_From_Multiple_Point_Clouds_CVPR_2019_paper.pdf), [code](https://ai4ce.github.io/DeepMapping/)
+  * TODO
+
 * Understanding the Limitations of CNN-based Absolute Camera Pose Regression, *CVPR 2019*
   * [paper](https://arxiv.org/abs/1903.07504), [datasets](https://github.com/tsattler/understanding_apr)
   * TODO
