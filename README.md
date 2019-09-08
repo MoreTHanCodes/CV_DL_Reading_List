@@ -59,7 +59,7 @@ A reading list related to our current project in SenseTime
 ## CNN for Depth Estimation
 * Digging Into Self-Supervised Monocular Depth Estimation, *ICCV 2019*
   * [paper](https://arxiv.org/abs/1806.01260), [code](https://github.com/nianticlabs/monodepth2)
-  * TODO
+  * per-pixel minimum reprojection loss, auto-masking stationary pixels, full-resolution multi-scale, self-supervised
 
 * Neural RGB->D Sensing: Depth and Uncertainty from a Video Camera, *CVPR 2019*
   * [paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Neural_RGBrD_Sensing_Depth_and_Uncertainty_From_a_Video_Camera_CVPR_2019_paper.pdf), [code](https://github.com/NVlabs/neuralrgbd)
